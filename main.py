@@ -2,7 +2,7 @@ import requests
 import time
 
 #group id
-id = '1026544378279366727'
+id = ''
 
 #token
 token = ''
